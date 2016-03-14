@@ -7,6 +7,10 @@ background-image:url("Small Logo.png");
 background-repeat: no-repeat;
 
 }
+
+slide {
+width:1260;
+}
 /*.reveal p {
 color: white;
 }
