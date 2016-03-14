@@ -10,6 +10,7 @@ background-repeat: no-repeat;
 
 slide {
 width:1260;
+scroll:true;
 }
 /*.reveal p {
 color: white;
