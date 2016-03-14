@@ -8,6 +8,10 @@ background-repeat: no-repeat;
 
 }
 
+.reveal .slides {
+width: 960
+}
+
 /*.reveal p {
 color: white;
 }
