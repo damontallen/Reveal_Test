@@ -306,7 +306,8 @@ html:-moz-full-screen-ancestor {
   bottom: 0;
   left: 0;
   margin: auto;
-  overflow: scroll;
+  overflow-x: hidden; /* scroll works here */
+  overflow-y: auto;
   z-index: 1;
   text-align: center;
   -webkit-perspective: 600px;
